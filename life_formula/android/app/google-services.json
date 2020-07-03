@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1090459469827",
+    "firebase_url": "https://life-formula-5c8ee.firebaseio.com",
+    "project_id": "life-formula-5c8ee",
+    "storage_bucket": "life-formula-5c8ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090459469827:android:e6b02a173e67696b132636",
+        "android_client_info": {
+          "package_name": "nlvinjamury.lifeformula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090459469827-uoq19tchqhtar0ikck3f3eph3v5u5k0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWZjAeHT_9wmpLf-tml-MPdF7n_HcSWyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090459469827-uoq19tchqhtar0ikck3f3eph3v5u5k0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
